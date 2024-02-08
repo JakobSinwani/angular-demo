@@ -1,3 +1,6 @@
+![image](https://github.com/JakobSinwani/angular-demo/assets/71314280/c363b033-d9ff-45cd-9a0b-3db3bc677c2a)
+
+
 # KitchenDemo
 
 This is a funny project for our Commander.
